@@ -1,4 +1,3 @@
-
 ### A simple Bank Management System in C++. It allows users to perform various operations such as:
 -  Creating a new account,
 -  Depositing money,
@@ -7,6 +6,8 @@
 -  Modifying account information,
 -  Viewing all existing accounts &
 -  Deleting an account.
+
+
 
 ## Contributors:
 -  Mohit Sabharwal (https://github.com/mohit-s30)
